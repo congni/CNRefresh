@@ -2,7 +2,7 @@
 //  CNRefreshProfile.swift
 //  PortalHaojuSwift
 //
-//  Created by haoju-congni on 16/3/30.
+//  Created by 葱泥 on 16/3/30.
 //  Copyright © 2016年 好居. All rights reserved.
 //
 

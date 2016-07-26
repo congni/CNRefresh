@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  CNRefreshDemo
 //
-//  Created by 汪君 on 16/7/19.
+//  Created by 葱泥 on 16/7/19.
 //  Copyright © 2016年 quanXiang. All rights reserved.
 //
 

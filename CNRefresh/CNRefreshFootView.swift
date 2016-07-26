@@ -2,7 +2,7 @@
 //  CNRefreshFootView.swift
 //  PortalHaojuSwift
 //
-//  Created by haoju-congni on 16/3/29.
+//  Created by 葱泥 on 16/3/29.
 //  Copyright © 2016年 好居. All rights reserved.
 //
 
